@@ -457,4 +457,3 @@ your file. The list of feature can be founded on our official documentation page
 ### Z00bfuscator
 
 * [Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core 
-
